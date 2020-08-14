@@ -1,2 +1,2 @@
-# Clash_SK
+# Clash
 配置文件
